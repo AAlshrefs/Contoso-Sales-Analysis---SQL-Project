@@ -27,7 +27,7 @@ An analysis of customer behavior, retention patterns, and lifetime value for an 
 
 ### 1. Customer Segmentation
 
-🖥️ **Query**: [1- Customer Segmentation](Project_Queries\1_customer_segmentation.sql)
+🖥️ **Query**: [1- Customer Segmentation](Project_Queries/1_customer_segmentation.sql)
 
 - Grouped customers according to their total lifetime value (LTV)
 - Classified customers into High, Mid, and Low-value tiers
