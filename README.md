@@ -1,5 +1,8 @@
 # 🛒🌐 Contoso Sales Analysis - SQL Project 
 
+📘 [View full project explanation & key concepts used](https://www.notion.so/Contoso-Sales-Analysis-SQL-1f93872979c180d095def1f3dfe8bdd2?pvs=4)
+
+
 ## Overview
 An analysis of customer behavior, retention patterns, and lifetime value for an e-commerce business, aimed at enhancing customer retention and maximizing revenue.
 
