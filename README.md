@@ -1,4 +1,4 @@
-# 🛒🌐 Contoso Sales Analysis - SQL Project 
+# 🌐 Contoso Sales Analysis - SQL Project 
 
 📘 [View Full Project Explanation & Key Concepts Used](https://www.notion.so/Contoso-Sales-Analysis-SQL-1f93872979c180d095def1f3dfe8bdd2?pvs=4)
 
