@@ -14,7 +14,7 @@ An analysis of customer behavior, retention patterns, and lifetime value for an 
 
 ## 🧹 Clean Up Data
 
-🖥️ **Query**: [Cohort Analysis View](Project_Queries\cohort_analysis_view.sql)
+🖥️ **Query**: [Cohort Analysis View](Project_Queries/cohort_analysis_view.sql)
 
 
 - Combined sales and customer data to generate revenue metrics.
@@ -53,7 +53,7 @@ An analysis of customer behavior, retention patterns, and lifetime value for an 
 
 ### 2. Customer Revenue by Cohort
 
-🖥️ **Query**: [2- Cohort Analysis](Project_Queries\2_cohort_analysis.sql)
+🖥️ **Query**: [2- Cohort Analysis](Project_Queries/2_cohort_analysis.sql)
 
 - Monitored revenue and customer numbers for each cohort
 - Organized cohorts based on the year of their initial purchase
@@ -83,7 +83,7 @@ An analysis of customer behavior, retention patterns, and lifetime value for an 
 
 ### 3. Customer Retention
 
-🖥️ **Query**: [3- Retention Analysis](Project_Queries\2_cohort_analysis.sql)
+🖥️ **Query**: [3- Retention Analysis](Project_Queries/3_retention_analysis.sql)
 
 - Identified customers at risk of churning  
 - Analyzed last purchase patterns  
