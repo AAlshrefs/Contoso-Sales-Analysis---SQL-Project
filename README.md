@@ -1,7 +1,7 @@
-# Intermediate SQL - Sales Analysis
+# Contoso Sales Analysis - SQL Project 
 
 ## Overview
-Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
+An analysis of customer behavior, retention patterns, and lifetime value for an e-commerce business, aimed at enhancing customer retention and maximizing revenue.
 
 ---
 
@@ -14,11 +14,12 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ## Clean Up Data
 
-🖥️ **Query**: `0_create_view.sql`
+🖥️ **Query**: [Cohort Analysis View](cohort_analysis_view.sql)
 
-- Aggregated sales and customer data into revenue metrics  
-- Calculated first purchase dates for cohort analysis  
-- Created view combining transactions and customer details
+
+- Combined sales and customer data to generate revenue metrics.
+- Determined first purchase dates to support cohort analysis.
+- Built a view that integrates transaction data with customer information.
 
 ---
 
